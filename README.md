@@ -1,4 +1,5 @@
-![Screenshot](https://github.com/user-attachments/assets/0f942edd-b243-457b-8953-f1eb110cd3ad)
+<img width="2172" height="724" alt="Pastel Canyon Portfolio Banner" src="https://github.com/user-attachments/assets/f33bc933-bec1-4336-9b17-172cc435cd8e" />
+
 
 
 
