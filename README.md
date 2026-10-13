@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.behance.net/nobinsijo"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance" /></a>
-  <a href="https://instagram.com/_phobiccnobin_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="(https://www.instagram.com/nobinn.n/)"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.linkedin.com/in/nobin-sijo-n77t/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://stackoverflow.com/users/23726917/nobin-sijo"><img src="https://img.shields.io/badge/Stack_Overflow-F48024?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
   <a href="https://x.com/NobinSijo"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
