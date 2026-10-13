@@ -12,9 +12,7 @@
   <a href="mailto:nobinsijo360t@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/NobinSijo7T/NobinSijo7T/actions/workflows/profile-insights.yml"><img src="https://github.com/NobinSijo7T/NobinSijo7T/actions/workflows/profile-insights.yml/badge.svg" alt="Profile insights update status" /></a>
-</p>
+
 
 ---
 
