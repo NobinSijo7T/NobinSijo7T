@@ -1,28 +1,112 @@
 <img width="2172" height="724" alt="Pastel Canyon Portfolio Banner" src="https://github.com/user-attachments/assets/f33bc933-bec1-4336-9b17-172cc435cd8e" />
 
+<h3 align="center">Crafting engaging experiences through the power of design and code</h3>
 
+<p align="center">
+  <a href="https://www.behance.net/nobinsijo"><img src="https://img.shields.io/badge/Behance-475569?style=flat-square&logo=behance&logoColor=white" alt="Behance" /></a>
+  <a href="https://instagram.com/_phobiccnobin_"><img src="https://img.shields.io/badge/Instagram-475569?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/nobin-sijo-n77t/"><img src="https://img.shields.io/badge/LinkedIn-475569?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://stackoverflow.com/users/23726917/nobin-sijo"><img src="https://img.shields.io/badge/Stack_Overflow-475569?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://x.com/NobinSijo"><img src="https://img.shields.io/badge/X-475569?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://codepen.io/Nobin-Sijo"><img src="https://img.shields.io/badge/CodePen-475569?style=flat-square&logo=codepen&logoColor=white" alt="CodePen" /></a>
+  <a href="mailto:nobinsijo360t@gmail.com"><img src="https://img.shields.io/badge/Email-475569?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NobinSijo7T&style=flat-square&color=64748b&label=PROFILE%20VIEWS" alt="Profile views" />
+</p>
 
-# ✨ ***Crafting engaging experiences through the power of design and code*** ✨
+---
 
+## Tech Stack
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/nobinsijo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_phobiccnobin_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nobin-sijo-n77t/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23726917/nobin-sijo) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/NobinSijo) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Nobin-Sijo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nobinsijo360t@gmail.com) 
+<details>
+  <summary><strong>Languages & Web</strong></summary>
+  <br />
+  <p>
+    <img src="https://img.shields.io/badge/C-475569?style=flat-square&logo=c&logoColor=white" alt="C" />
+    <img src="https://img.shields.io/badge/HTML5-475569?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-475569?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-475569?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-475569?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Python-475569?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Java-475569?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/R-475569?style=flat-square&logo=r&logoColor=white" alt="R" />
+    <img src="https://img.shields.io/badge/Next.js-475569?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Sass-475569?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
+    <img src="https://img.shields.io/badge/Bootstrap-475569?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/Webpack-475569?style=flat-square&logo=webpack&logoColor=white" alt="Webpack" />
+    <img src="https://img.shields.io/badge/WordPress-475569?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+  </p>
+</details>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat-square&logo=expo&logoColor=#D04A37) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6) ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://awesome-github-stats.azurewebsites.net/user-stats/NobinSijo7T?cardType=level&theme=darcula&preferLogin=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NobinSijo7T&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NobinSijo7T&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<details>
+  <summary><strong>Platforms & Tools</strong></summary>
+  <br />
+  <p>
+    <img src="https://img.shields.io/badge/Vercel-475569?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+    <img src="https://img.shields.io/badge/Firebase-475569?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
+    <img src="https://img.shields.io/badge/Google%20Cloud-475569?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+    <img src="https://img.shields.io/badge/Expo-475569?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+    <img src="https://img.shields.io/badge/NPM-475569?style=flat-square&logo=npm&logoColor=white" alt="NPM" />
+    <img src="https://img.shields.io/badge/PostgreSQL-475569?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Windows%20Terminal-475569?style=flat-square&logo=windows-terminal&logoColor=white" alt="Windows Terminal" />
+    <img src="https://img.shields.io/badge/Git-475569?style=flat-square&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-475569?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Docker-475569?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  </p>
+</details>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NobinSijo7T&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<details>
+  <summary><strong>Design & Creative</strong></summary>
+  <br />
+  <p>
+    <img src="https://img.shields.io/badge/Adobe%20Illustrator-475569?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" />
+    <img src="https://img.shields.io/badge/Adobe%20XD-475569?style=flat-square&logo=adobexd&logoColor=white" alt="Adobe XD" />
+    <img src="https://img.shields.io/badge/Framer-475569?style=flat-square&logo=framer&logoColor=white" alt="Framer" />
+    <img src="https://img.shields.io/badge/Figma-475569?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+    <img src="https://img.shields.io/badge/Dribbble-475569?style=flat-square&logo=dribbble&logoColor=white" alt="Dribbble" />
+    <img src="https://img.shields.io/badge/Canva-475569?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-475569?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
+  </p>
+</details>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<details>
+  <summary><strong>AI & Data</strong></summary>
+  <br />
+  <p>
+    <img src="https://img.shields.io/badge/TensorFlow-475569?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  </p>
+</details>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NobinSijo7T&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## GitHub Insights
+
+<p align="center">
+  <a href="https://github.com/NobinSijo7T">
+    <img height="165" width="49%" src="https://github-readme-stats.vercel.app/api?username=NobinSijo7T&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/NobinSijo7T">
+    <img height="165" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NobinSijo7T&layout=compact&langs_count=6&hide_border=true&theme=transparent" alt="Most used languages" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NobinSijo7T&theme=transparent&hide_border=true&ring=64748b&fire=64748b&currStreakLabel=64748b&sideLabels=64748b&currStreakNum=334155&sideNums=334155&dates=94a3b8" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NobinSijo7T&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" width="100%" />
+  </a>
+</p>
+
+<!--
+Widget notes:
+- Stats and language cards: https://github.com/anuraghazra/github-readme-stats
+- Streak card: https://github.com/DenverCoder1/github-readme-streak-stats
+- Contribution graph: https://github.com/Ashutosh00710/github-readme-activity-graph
+- Profile view counter: https://github.com/antonkomarev/github-profile-views-counter
+These widgets rely on external services and may occasionally be unavailable or rate-limited.
+-->
