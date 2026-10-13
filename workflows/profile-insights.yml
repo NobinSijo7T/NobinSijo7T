@@ -1,0 +1,51 @@
+name: Profile Insights
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 4 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - "README.md"
+      - "scripts/generate_profile_insights.py"
+      - ".github/workflows/profile-insights.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-insights
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate insight cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: NobinSijo7T
+        run: python scripts/generate_profile_insights.py
+
+      - name: Commit refreshed cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/profile-insights.svg assets/language-insights.svg assets/top-repositories.svg assets/public-activity.svg
+          if git diff --cached --quiet; then
+            echo "Insight cards are already up to date."
+          else
+            git commit -m "chore: refresh profile insight cards"
+            git push
+          fi
